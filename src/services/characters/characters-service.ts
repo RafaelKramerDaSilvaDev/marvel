@@ -1,5 +1,5 @@
 import { BaseResponse } from "../../models/base/base-response";
-import { LoadAllCharactersModel } from "../../models/comics/load-all-characters";
+import { LoadAllCharactersModel } from "../../models/characters/load-all-characters";
 import { BaseService } from "../base/base-service";
 
 class CharactersService extends BaseService {
