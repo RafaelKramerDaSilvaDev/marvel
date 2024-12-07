@@ -15,8 +15,12 @@ export const Aside = styled.aside`
   background-color: #ee171f;
 
   height: 100%;
-
   padding: 16px;
+
+  border-left: 12px;
+  border-right: 12px;
+  border-style: solid;
+  border-color: #ffffff;
 
   user-select: none;
 `;
